@@ -1,5 +1,7 @@
 public class{
   public static void main(){
-    System.out.println("I love you!");
+    int i=10;
+    System.out.println("I love you!"+i);
+    
   }
 }
